@@ -67,6 +67,8 @@ This project contains tasks for learning to use variable/type annotations in Pyt
 
   zoom_3x = zoom_array(array, 3.0)
   ```
+
+
 ## CONCEPT
 + [x] [Advanced Concept](https://intranet.alxswe.com/concepts/554)
 

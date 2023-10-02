@@ -21,3 +21,10 @@ This project contains tasks for learning to use asynchronous code in Python 3.
 
 + [x] 4. **Tasks**<br/>[4-tasks.py](4-tasks.py) contains a script that meets the following requirements:
   + Take the code from `wait_n` and alter it into a new function `task_wait_n`. The code is nearly identical to `wait_n` except `task_wait_random` is being called.
+
+## CONCEPT
++ [x] [Advanced Concept](https://intranet.alxswe.com/concepts/554)
+
+## RESOURCES
++ [x] [Python 3 Typing Documentation](https://intranet.alxswe.com/rltoken/5j0OtdWh36_HVAHKJX2gaA)
++ [x] [MyPy Cheat code](https://intranet.alxswe.com/rltoken/Eud-nrUG7x3iT6JD2Sas-g) 
